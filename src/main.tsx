@@ -6,7 +6,7 @@ import {
     RouterProvider,
 } from "react-router-dom";
 import './index.css'
-import {ChakraProvider, ColorModeScript} from "@chakra-ui/react";
+import {ChakraProvider} from "@chakra-ui/react";
 import Home from "./pages/Home";
 import theme from "./theme";
 
